@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=wavpane
+GenericName=Waveform Viewer
+Comment=Zoom into WAV files and inspect their amplitude
+Exec=wavpane %f
+Icon=wavpane
+Terminal=false
+NoDisplay=true
+Categories=AudioVideo;Audio;
+MimeType=audio/x-wav;audio/wav;audio/vnd.wave;
+Keywords=wav;waveform;audio;histogram;
+StartupWMClass=wavpane

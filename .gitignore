@@ -1,0 +1,5 @@
+build/
+*~
+# Emacs autosave and lock files
+\#*\#
+.\#*
