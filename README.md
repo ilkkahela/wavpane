@@ -2,6 +2,8 @@
 
 An SDL3-based interactive WAV waveform viewer with adjustable dynamic range and high-fidelity rendering.
 
+Now more like a proof-of-concept how to render huge amount of stationary time-series data  or single audio track, for now the only dependency is SDL3.
+
 ![wavpane viewing seismic.wav, with the hover histogram docked on the left and the cursor time at the bottom](docs/seismic.png)
 
 ## Build
@@ -111,3 +113,7 @@ The GoogleTest suite (fetched automatically) covers the WAV parser and file load
 ## License
 
 MIT; see [`LICENSE`](LICENSE).
+
+## AI Disclaimer
+
+Practically Claude handled the gory programmatic details.
